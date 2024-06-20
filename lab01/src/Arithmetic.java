@@ -1,3 +1,5 @@
+package lab01.src;
+
 import edu.princeton.cs.algs4.StdIn;
 
 /** Simple Arithmetic Class.
